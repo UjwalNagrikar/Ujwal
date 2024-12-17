@@ -45,8 +45,7 @@ I am continuously improving my skills to become a highly skilled **Cloud Enginee
 
 ## 📫 Connect with Me  
 - **Email:** [ujjwalnagrikar@mail.com](mailto:ujjwalnagrikar@mail.com)  
-- **LinkedIn:** [Ujwal Nagrikar](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)  
-- **GitHub:** [@your-github-username](#)  
+- **LinkedIn:** [Ujwal Nagrikar](https://www.linkedin.com/in/ujjwal-nagrikar-2631aa273/)   
 
 ---
 
